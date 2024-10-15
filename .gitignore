@@ -1,0 +1,11 @@
+.venv
+.idea
+.env
+env
+__pycache__
+staticfiles
+static
+selfmedicaution/__pycache__
+core/__pycache__
+model/disease.ipynb
+model/example.py
